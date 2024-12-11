@@ -1,7 +1,4 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Unfortunately, there is a persistent issue with generating the download link. Let me provide the content here again. You can copy and save it as a README.md file manually.
-markdownCopy code# Morningstar ETFs vs Mutual Funds Analysis
-
 This repository contains an analysis of European ETFs and Mutual Funds datasets from Morningstar. The analysis compares the two investment instruments in terms of returns, volatility, and risk-adjusted performance.
 
 ## Project Structure
