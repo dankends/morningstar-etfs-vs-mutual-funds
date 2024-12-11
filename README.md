@@ -1,4 +1,3 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This repository contains an analysis of European ETFs and Mutual Funds datasets from Morningstar. The analysis compares the two investment instruments in terms of returns, volatility, and risk-adjusted performance.
 
 ## Project Structure
