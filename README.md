@@ -32,7 +32,4 @@ Key findings:
 1. ETFs generally exhibit lower volatility compared to Mutual Funds.
 2. ETFs offer better risk-adjusted returns as indicated by Sharpe Ratios.
 
-## License
-
-This project is licensed under the MIT License.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
