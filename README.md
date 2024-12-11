@@ -17,13 +17,7 @@ dataset. - `mutual_funds.csv`: European Mutual Funds dataset.
 Notebooks
 ---------
 
-The analysis is conducted in the `notebooks/` folder. Use `analysis.ipynb` to
-reproduce the results.
-
-Outputs
--------
-
-Processed datasets and results are saved in the `outputs/` folder.
+Use `analysis.ipynb` to reproduce the results.
 
 Results
 -------
