@@ -4,10 +4,8 @@ This repository contains an analysis of European ETFs and Mutual Funds datasets 
 
 1. Clone the repository:
 git clone https://github.com/dankends/morningstar-etfs-vs-mutual-funds.git cd morningstar-etfs-vs-mutual-funds
-markdownCopy code
 2. Install dependencies:
 pip install -r requirements.txt
-markdownCopy code
 ## Datasets
 
 The datasets are located in the `data/` directory:
